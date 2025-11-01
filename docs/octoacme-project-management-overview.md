@@ -19,6 +19,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX/UI Designer: ensure user-centric design and usability.
+- DevOps Engineer: own CI/CD pipelines, infrastructure, and deployment automation.
+- Security Lead: oversee security requirements, threat modeling, and vulnerability management.
+- Support/Customer Success: communicate with customers, gather feedback, and assist in issue resolution.
+- Business Analyst: analyze business needs, document requirements, and validate solutions.
 
 ## Key Artifacts
 - Project Charter / One-pager
